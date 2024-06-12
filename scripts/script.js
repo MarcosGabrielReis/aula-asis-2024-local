@@ -3,3 +3,5 @@ $(document).ready(function(){
         $("#text").text("O texto foi alterado com sucesso!");
     });
 });
+
+//teste de alteração
